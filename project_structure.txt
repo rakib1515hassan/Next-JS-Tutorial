@@ -1,0 +1,20 @@
+/next_tutorial
+|-- /public
+|   |-- /images
+|   
+|-- /src
+|   |-- /app
+|   |   |-- /page.js               
+|   |   |-- /layout.js              
+|   |   |-- globals.css
+|   
+|-- .gitignore
+|-- eslint.config.mjs
+|-- next-env.d.ts
+|-- next.config.ts
+|-- package-lock.json
+|-- package.json
+|-- postcss.config.mjs
+|-- project_structure.txt
+|-- README.md
+|-- tsconfig.json
