@@ -5,21 +5,21 @@ This is a note for Next js
 # First, How can i install a Next.js Project:
 
 ```bash
-    npx create-next-app@latest
+npx create-next-app@latest
 ```
 
 => Project Named: Your project directory name:
 √ What is your project named? ... my-app
 
 ```bash
-    Your_Project_Name
+Your_Project_Name
 ```
 
 => TypeScript:
 √ Would you like to use TypeScript? ... No / Yes
 
 ```bash
-    Yes
+Yes
 ```
 
 
@@ -27,49 +27,49 @@ This is a note for Next js
 √ Would you like to use ESLint? ... No / Yes
 
 ```bash
-    Yes
+Yes
 ```
 
 => Tailwind CSS: For styling If you want to install Tailwind CSS then `Yes`:
 √ Would you like to use Tailwind CSS? ... No / Yes
 
 ```bash
-    Yes
+Yes
 ```
 
 => src/ Directory: Use src for Better code organization, then `Yes`
 √ Would you like your code inside a `src/` directory? ... No / Yes
 
 ```bash
-    Yes
+Yes
 ```
  
 => Next Route: Next.js 13+ recommended router
 √ Would you like to use App Router? (recommended) ... No / Yes
 
 ```bash
-    Yes
+Yes
 ```
 
 => Turbopack = Webpack/Vite এর চেয়ে দ্রুততম বিকল্প (বিশেষ করে Next.js-এ)
 √ Would you like to use Turbopack for `next dev`? ... No / Yes
 
 ```bash
-    No
+No
 ```
 
 => Customize Import Alias 
 √ Would you like to customize the import alias (`@/*` by default)? ... No / Yes
 
 ```bash
-    Yes
+Yes
 ```
 
 => @/* (Default):
 √ What import alias would you like configured? ... @/*
 
 ```bash
-    @/*
+@/*
 ```
 
 Creating a new Next.js app in D:\Next Js\my-app.
@@ -119,4 +119,3 @@ pnpm dev
 # or
 bun dev
 ```
-
