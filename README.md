@@ -136,3 +136,17 @@ or,
 ```bash
 yarn add axios
 ```
+
+
+
+# Install React Icons (Recommended) in a Next.js Project
+
+### 1. Install React Icons via npm or yarn
+
+```bash
+npm install react-icons
+```
+or,
+```bash
+yarn add react-icons
+```
