@@ -120,5 +120,3 @@ pnpm dev
 bun dev
 ```
 
-
-💡 Note: Pro Tips
