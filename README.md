@@ -109,7 +109,7 @@ Success! Created my-app at D:\Next Js\my-app
 
 
 
-# First, run the development server:
+# Second, run the development server:
 
 ```bash
 npm run dev
