@@ -8,14 +8,14 @@ This is a note for Next js
 npx create-next-app@latest
 ```
 
-✨ Project Named: Your project directory name ✨
+✨ Project Named: Your project directory name
 √ What is your project named? ... my-app
 
 ```bash
 Your_Project_Name
 ```
 
-✨ TypeScript ✨
+✨ TypeScript
 √ Would you like to use TypeScript? ... No / Yes
 
 ```bash
@@ -23,29 +23,29 @@ Yes
 ```
 
 
-✨ ESLint ✨ 
-💡 ESLint হলো আপনার জাভাস্ক্রিপ্ট/টাইপস্ক্রিপ্ট কোডের "গ্রামার চেকার" এর মতো—এটি কোড ক্লিন, বাগ-ফ্রি এবং টিম-ফ্রেন্ডলি রাখতে সাহায্য করে!
+✨ ESLint 
+💡ESLint হলো আপনার জাভাস্ক্রিপ্ট/টাইপস্ক্রিপ্ট কোডের "গ্রামার চেকার" এর মতো—এটি কোড ক্লিন, বাগ-ফ্রি এবং টিম-ফ্রেন্ডলি রাখতে সাহায্য করে!
 √ Would you like to use ESLint? ... No / Yes
 
 ```bash
 Yes
 ```
 
-✨ Tailwind CSS: For styling If you want to install Tailwind CSS then `Yes`: ✨
+✨ Tailwind CSS: For styling If you want to install Tailwind CSS then `Yes`:
 √ Would you like to use Tailwind CSS? ... No / Yes
 
 ```bash
 Yes
 ```
 
-✨ src/ Directory: Use src for Better code organization, then `Yes` ✨
+✨ src/ Directory: Use src for Better code organization, then `Yes`
 √ Would you like your code inside a `src/` directory? ... No / Yes
 
 ```bash
 Yes
 ```
  
-✨ Next Route: Next.js 13+ recommended router ✨
+✨ Next Route: Next.js 13+ recommended router
 √ Would you like to use App Router? (recommended) ... No / Yes
 
 ```bash
