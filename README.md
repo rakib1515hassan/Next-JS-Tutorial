@@ -121,6 +121,10 @@ pnpm dev
 bun dev
 ```
 
+
+
+
+
 # Install Axios in a Next.js Project
 
 ### 1. Install Axios via npm or yarn
